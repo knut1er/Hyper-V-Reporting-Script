@@ -38,11 +38,15 @@
 					- Windows Server 2012 R2
 					- Hyper-V Server 2012
 					- Hyper-V Server 2012 R2
+					- Windows Server 2019
+					- Hyper-V Server 2019
 			o Script Runtime Operating System (directly on a Hyper-V target or remote Windows operating system)
 				* Same or trusted Active Directory domain membership with Hyper-V target
 				* Supported Operating Systems
 					- Windows Server 2012
 					- Windows Server 2012 R2
+					- Windows Server 2019
+					- Hyper-V Server 2019
 				* Windows PowerShell 3.0 or 4.0 (installed by default on supported server operating systems)
 				* Sets the Windows PowerShell execution policy to RemoteSigned or Unrestricted
 				* Hyper-V PowerShell (if not, automatically installed by the Get-HyperVReport.ps1 for server oses)
